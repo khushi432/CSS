@@ -116,6 +116,7 @@ Ensure that the modifications adhere to the following test cases:
 
 ```
 ## CSS
+```
 body {
   background-color: #e8f9fd;
   margin: 0;
@@ -221,8 +222,6 @@ footer {
 .footer-content {
   grid-row: 2;
 }
-
-```
 ```
 ## Modifications
 Make necessary adjustments to the HTML and CSS code to ensure responsiveness and achieve the expected output.
