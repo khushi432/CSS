@@ -224,4 +224,4 @@ footer {
 }
 ```
 ## Modifications
-Make necessary adjustments to the HTML and CSS code to ensure responsiveness and achieve the expected output.
+Make necessary adjustments to this HTML and CSS code to ensure responsiveness and achieve the expected output.
